@@ -2,4 +2,4 @@
 
 - [Kalaha initial move analysis](https://bojakobsen.github.io/kalaha-analyse/)
 
-My profesional webpage can be found on [http://www.ruc.dk/~boj]
+My profesional webpage can be found on [www.ruc.dk/~boj](http://www.ruc.dk/~boj)
