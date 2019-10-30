@@ -2,5 +2,6 @@ theme: jekyll-theme-slate
 title: [Stuff by Me]
 description: [Home of my small projects]
 github:
-  is_project_page: ["false"]
+  is_project_page: "false"
+  
   
